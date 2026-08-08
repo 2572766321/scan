@@ -1,0 +1,18 @@
+# 扫描产生的证据留存文件
+/危险.txt
+*.log
+
+# 临时测试脚本
+*test*.sh
+*bypass*.sh
+
+# 系统生成的垃圾文件
+.DS_Store
+Thumbs.db
+
+# 编辑器临时文件
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
